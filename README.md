@@ -6,10 +6,12 @@ Contents
 
     Code: Folder containing Jupyter notebooks used for training and evaluating domain name generation models.
     Doc: Folder including documents and files related to the project, such as reports, presentations, and any other relevant material.
-    Data: Optional folder that may contain datasets used in the project, if necessary.
+    Data: Folder that contain datasets generet in the project.
     Models: Folder containing the neural network models developed for domain name generation.
-    Images: Optional folder that may contain images and graphics used in the project documentation.
-
+    Images: Optional folder that contain images and graphics used in the project documentation.
+    Rawdata: Folder that contain datasets used in the project.
+    Publications: Folder containing project posts.
+    
 Usage Instructions
 
 To use this repository, follow these steps:
