@@ -16,8 +16,8 @@ Usage Instructions
 
 To use this repository, follow these steps:
 
-    Clone the repository to your local machine: git clone https://github.com/reypapin/Generador-de-Dominios.git.
-    Navigate to the project folder: cd Generador-de-Dominios.
+    Clone the repository to your local machine: git clone https://github.com/reypapin/Domain-Generator.git.
+    Navigate to the project folder: cd Domain-Generator.
     Explore the Jupyter notebooks in the Notebooks folder to review the code and results.
     Refer to the documentation in the corresponding folder for more information about the project and the results obtained.
 
