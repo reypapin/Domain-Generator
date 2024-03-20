@@ -1,17 +1,17 @@
 Notebooks Overview
 
 This folder contains Jupyter notebooks used for different purposes related to domain name generation and evaluation.
+
 Generation.ipynb
-
 This notebook utilizes the trained model to generate domain names. It showcases how the hybrid CNN-LSTM neural network can be employed to create domain names similar to normal ones.
+
 Generator_Trained_Set_Tranco.ipynb
-
 In this notebook, the model is trained using a set of domain names and subsequently generates 10,000 domain names. These generated domains are then evaluated using two Algorithmically Generated Domain (AGD) detectors to assess their similarity to legitimate domains.
+
 LLama2_7B_Domain.ipynb
-
 Here, the LLama2_7B language model is employed to evaluate 10,000 generated domain names. The notebook demonstrates how the language model analyzes the generated domains to determine their normality appearance.
-Whois_Domain.ipynb
 
+Whois_Domain.ipynb
 This notebook utilizes the Whois tool to check the registration status of 10,000 generated domain names. It aims to determine whether the generated domains are already registered or available for registration.
 
 For further details on each notebook's functionality, please refer to the respective notebook files.
